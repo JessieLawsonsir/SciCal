@@ -115,4 +115,3 @@ Streams MP3s stored inside the `music/` folder.
 
 **Palle Jessie Lawson**
 
-> "Observe the way I observe."
