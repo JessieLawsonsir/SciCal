@@ -1,2 +1,0 @@
-# SciCal
-Scientific Calculator
